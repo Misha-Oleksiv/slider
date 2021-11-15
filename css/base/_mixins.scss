@@ -1,0 +1,7 @@
+@mixin social ($h, $df, $cp, $bd){
+	height: $h;
+	display: $df;
+	cursor: $cp;
+	border: $bd;
+}
+
